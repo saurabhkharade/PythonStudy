@@ -1,8 +1,6 @@
 #------------------
 #Day1- Variables and data type
-#------------------
-
-
+#-----------------
 
 #variable: Used to store data
 
