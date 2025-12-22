@@ -1,8 +1,8 @@
 # conditional Statement
 age = int(input("Enter your age: "))
-if (age >= 18 and age <= 45):
+if 18 <= age <= 45:
     print("Person is eligible to vote twice.")
-elif (age > 45):
+elif age > 45:
     print("Person is eligible to vote ")
 else:
     print("Person is ineligible to vote.")
