@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6f5e7ec-f41e-4e7f-892e-21338a213da9" name="Changes" comment="Day 6 — Python for switch statement">
-      <change afterPath="$PROJECT_DIR$/week1/day7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/day8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/day3.py" beforeDir="false" afterPath="$PROJECT_DIR$/week1/day3_array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/day4_assignmentsolved.dart.py" beforeDir="false" afterPath="$PROJECT_DIR$/week1/day4_assignmentsolved.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/day5_if_else.py" beforeDir="false" afterPath="$PROJECT_DIR$/week1/day5_if_else.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week1/day6_for_switch.py" beforeDir="false" afterPath="$PROJECT_DIR$/week1/day6_for_switch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/day7.py" beforeDir="false" afterPath="$PROJECT_DIR$/week1/day7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765718324038</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Day 6 — Python for switch statement">
+      <option name="closed" value="true" />
+      <created>1766424628933</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1766424628933</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
