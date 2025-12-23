@@ -70,7 +70,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="day5_if_else" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Day6_Lists_Tuples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonStudy" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -83,7 +83,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week1/day5_if_else.py" />
+      <option name="SCRIPT_NAME" value="E:\Study-DataScience\PythonStudy\week1\Day6_Lists_Tuples.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +94,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.day5_if_else" />
+        <item itemvalue="Python.Day6_Lists_Tuples" />
       </list>
     </recent_temporary>
   </component>
