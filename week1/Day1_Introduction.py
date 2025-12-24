@@ -1,28 +1,48 @@
-#------------------
-#Day1- Variables and data type
-#-----------------
+# 🐍 Python 30 Days Challenge
 
-#variable: Used to store data
+## 📅 Day 1: Python Basics – Variables & Data Types
 
-name="Programming Keeda"
-age= 28
-height = 5.7
-is_student = True
-
-print("Name: ", name)
-print("Age: ", age)
-print("Height: ", height)
-print("is_student: ", is_student)
+#Welcome to **Day 1** of my Python learning journey 🚀
+#Today, I learned the **fundamentals of Python**, which are the building blocks of any program.
 
 
-#Data type Example
-string_text = "Hello Programming Keeda!"
-integer_num = 10
-flat_num = 20.52
-boolean_value =False
+## ✅ Topics Covered
 
-print("\n---Data Types---")
-print("Integer: ",string_text,"->",type(string_text))
-print("Flat number: ", flat_num,"->",type(flat_num))
-print("Boolean: ", boolean_value,"->",type(boolean_value))
-print("String: ", string_text,"->",type(string_text))
+#- Introduction to Python
+#- Variables in Python
+#- Data Types in Python:
+  #- int
+  #- float
+  #- string
+  #- boolean
+#- Checking data types using `type()`
+
+
+## 🧠 What I Learned
+
+#- Python is an **interpreted, high-level, and easy-to-learn** programming language.
+#- Variables are used to store data and **do not require explicit data type declaration**.
+#- Python automatically determines the data type of a variable at runtime.
+
+
+
+## 💻 Code Example
+
+#python
+# Variable declaration
+name = "Saurabh"
+age = 28
+height = 5.9
+is_developer = True
+
+# Printing values
+print(name)
+print(age)
+print(height)
+print(is_developer)
+
+# Checking data types
+print(type(name))
+print(type(age))
+print(type(height))
+print(type(is_developer))

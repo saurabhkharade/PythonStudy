@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6f5e7ec-f41e-4e7f-892e-21338a213da9" name="Changes" comment="Day 6 — Python for switch statement">
-      <change afterPath="$PROJECT_DIR$/week1/day8.py" afterDir="false" />
+    <list default="true" id="e6f5e7ec-f41e-4e7f-892e-21338a213da9" name="Changes" comment="change data for day wise">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/day6_for_switch.py" beforeDir="false" afterPath="$PROJECT_DIR$/week1/day6_for_switch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/day7.py" beforeDir="false" afterPath="$PROJECT_DIR$/week1/day7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/Day1_Introduction.py" beforeDir="false" afterPath="$PROJECT_DIR$/week1/Day1_Introduction.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,23 +45,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.day02_IO_Operators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.day1_variables_datatype.executor&quot;: &quot;Run&quot;,
-    &quot;Python.day3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.day4_assignmentsolved.dart.executor&quot;: &quot;Run&quot;,
-    &quot;Python.day5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.day5_if_else.executor&quot;: &quot;Run&quot;,
-    &quot;Python.day6_for_switch.executor&quot;: &quot;Run&quot;,
-    &quot;Python.day7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.python_basics.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Day1_Introduction.executor": "Run",
+    "Python.day02_IO_Operators.executor": "Run",
+    "Python.day1_variables_datatype.executor": "Run",
+    "Python.day3.executor": "Run",
+    "Python.day4_assignmentsolved.dart.executor": "Run",
+    "Python.day5.executor": "Run",
+    "Python.day5_if_else.executor": "Run",
+    "Python.day6_for_switch.executor": "Run",
+    "Python.day7.executor": "Run",
+    "Python.day8.executor": "Run",
+    "Python.python_basics.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Study-DataScience\PythonStudy\week1" />
@@ -201,7 +201,23 @@
       <option name="project" value="LOCAL" />
       <updated>1766424628933</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Day 8 — Python for liat and tople">
+      <option name="closed" value="true" />
+      <created>1766513491089</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1766513491089</updated>
+    </task>
+    <task id="LOCAL-00013" summary="change data for day wise">
+      <option name="closed" value="true" />
+      <created>1766513769093</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1766513769093</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,6 +240,8 @@
     <MESSAGE value="Day 4 — Python variable practices" />
     <MESSAGE value="Day 5 — Python conditional statement" />
     <MESSAGE value="Day 6 — Python for switch statement" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 6 — Python for switch statement" />
+    <MESSAGE value="Day 8 — Python for liat and tople" />
+    <MESSAGE value="change data for day wise" />
+    <option name="LAST_COMMIT_MESSAGE" value="change data for day wise" />
   </component>
 </project>
