@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6f5e7ec-f41e-4e7f-892e-21338a213da9" name="Changes" comment="Day 1 add code" />
+    <list default="true" id="e6f5e7ec-f41e-4e7f-892e-21338a213da9" name="Changes" comment="Day 1 add code">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +48,7 @@
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;Python.Day1_Introduction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day3_Operators.executor&quot;: &quot;Run&quot;,
     &quot;Python.day02_IO_Operators.executor&quot;: &quot;Run&quot;,
     &quot;Python.day1_variables_datatype.executor&quot;: &quot;Run&quot;,
     &quot;Python.day3.executor&quot;: &quot;Run&quot;,
@@ -222,7 +225,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766600172368</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Day 1 add code">
+      <option name="closed" value="true" />
+      <created>1766854078813</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1766854078813</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

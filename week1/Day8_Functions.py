@@ -11,9 +11,12 @@ print(fruits)  # ['apple', 'banana', 'cherry', 'banana', 'orange']
 fruits.insert(1, "mango")  # Use to insert at a specific index
 print(fruits)  # ['apple', 'mango', 'banana', 'cherry', 'banana', 'orange']
 
+
+
 # 3️⃣ remove() – Remove first occurrence of value
 fruits.remove("banana")  # Use to delete a specific value
 print(fruits)  # ['apple', 'mango', 'cherry', 'banana', 'orange']
+
 
 # 4️⃣ pop() – Remove item by index (default last)
 popped = fruits.pop()  # Use to remove and get last item
